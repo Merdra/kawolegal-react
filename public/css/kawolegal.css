@@ -1,0 +1,89 @@
+.top{
+    background-color: #bd2130 !important;
+    color: red;
+}
+
+.logo-top{
+  height: 50px;
+  width: 220px;
+}
+
+.links{
+  text-align: center;
+  padding: 0px;
+  margin: 1px;
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 0 0);
+}
+
+.middle{
+  background-blend-mode: overlay;
+  background-color: red;
+  background: #bd2130 url('images/banner2.jpg') top  no-repeat;
+	text-align: center;
+  color: white;
+  height: 500px;
+  border-radius: 0px;
+  background-size: cover;
+}
+
+.error{
+  background-blend-mode: overlay;
+  background-color: red;
+  background: #bd2130 url('images/error.jpg') top  no-repeat;
+  text-align: center;
+  color: white;
+  height: 500px;
+  border-radius: 0px;
+  background-size: cover;
+}
+
+.footer-down{
+  background-color: #bd2130;
+  color: white;
+  height: 50px;
+  padding-top: 13px;
+}
+
+.join{
+  font-size: 40px;
+}
+
+.top-label{
+  font-weight: bold;
+}
+
+.search-button{
+  background-color: blue;
+  color: white;
+}
+
+.card-heading{
+  color: blue;
+  font-size: x-large;
+}
+
+.card-with-img{
+border: 0px;
+height: 195px;
+}
+
+.card-1 {
+    width: inherit;
+    padding-left: 10px;
+    height: 50%;
+}
+
+.card-2{
+  height: 200px;
+  padding-left: 20px;
+  padding-right: 0px;
+}
+
+.card-3{
+  padding-top: 40px;
+  width: inherit;
+}
